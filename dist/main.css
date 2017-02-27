@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  padding-top: 0;
+  margin: 0;
+  background-color: lightgrey;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 5px 0px;
+}
+
+h1 {
+  padding: 10px;
+  margin-top: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: maroon;
+  color: white;
+}
+
+footer {
+  position: relative;
+  margin-top: 6em;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
