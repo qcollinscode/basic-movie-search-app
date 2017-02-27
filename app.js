@@ -31,7 +31,7 @@ Q:::::::QQ::::::::Q   C:::::CCCCCCCC::::C  C:::::CCCCCCCC::::CO:::::::OOO:::::::
 
 
 /**
- * VIEW ENGINE, DIRECTORIES, and BODY PARSER SETUP
+ * VIEW ENGINE, DIRECTORIES
  */
 
 /** Static Directory **/
