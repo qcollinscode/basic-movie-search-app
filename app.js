@@ -63,7 +63,7 @@ Q:::::::QQ::::::::Q   C:::::CCCCCCCC::::C  C:::::CCCCCCCC::::CO:::::::OOO:::::::
    /** Query data **/
    var query = req.query.search,
       /** Url **/
-       url = 'http://omdbapi.com/?s=' + query;
+       url = 'http://omdbapi.com/?apikey=7dee3437&s=' + query;
    request(url, function(error, response, body) {
 
      /** Show the results page with the returned data only if there is no error and everything is ok **/
